@@ -1,4 +1,5 @@
 FROM node
 WORKDIR /code
-COPY . .
+COPY package*.json .
 RUN npm install
+COPY . .
