@@ -2,7 +2,7 @@
 
 ## Summary
 
-An applicaiton to showcase a full stack applicaiton.
+A basic Todo full stack applicaiton.
 
 ## Specifications
 
